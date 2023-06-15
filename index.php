@@ -38,7 +38,7 @@
             <li><a href="#work">my work</a></li>
             <li><a href="#contact">contact</a></li>
         </ul>
-            <a href="#" class="top-btn">download my cv</a>
+            <a href="#" class="top-btn">download my CV</a>
 </header>
 
 

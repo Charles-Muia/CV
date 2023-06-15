@@ -56,7 +56,7 @@
         color: var(--text-color);
         font-weight: 500;
         padding: 10px 25px;
-        text-transform: uppercase;git add
+        text-transform: uppercase;
         cursor: pointer;
     }
 
@@ -80,4 +80,34 @@
         width: 50%;
         align-items: center;
         justify-content: center;
+    }
+
+    #menu-icon {
+        font-size: 40px;
+        color: var(--text-color);
+        z-index: 10001;
+        cursor: pointer;
+        display: none;
+    }
+
+    .top-btn {
+        display: inline-block;
+        padding: 5px 15px;
+        background: transparent;
+        border: 2px solid #8b0000;
+        border-radius: 30px;
+        color: var(--text-color);
+        letter-spacing: 1px;
+        font-size: var(--p-font);
+        font-weight: 500;
+        transition: ease .60s;
+        text-transform: capitalize;
+    }
+
+    .top-btn:hover {
+        transform: scale(1.1);
+        background: black;
+        border: 2px solid transparent;
+        color: #ff0000;
+
     }
