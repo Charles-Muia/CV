@@ -14,7 +14,9 @@
         --second-color: #a09dab;
         --main-color: #f75023;
         --big-font:5rem;
+        --h1-font:3.5rem;
         --h2-font:3rem;
+        --h5-font:20px;
         --p-font:1.1rem
     }
 
@@ -133,6 +135,31 @@
         grid-gap: 4rem;
     }
 
-    .home-sec-text {
+    .home-sec-text h1 {
+        margin: 10px 0px 25px;
+        font-size: var(--h1-font);
+        line-height: 1;
+        font-weight: 500;
+        text-transform: capitalize;
+    }
 
+    .home-sec-text h3 {
+        margin: 10px 0px 25px;
+        font-size: var(--h5-font);
+        line-height: 1;
+        font-weight: 500;
+        text-transform: capitalize;
+    }
+
+    .home-sec-text h5 {
+        margin-bottom: 25px;
+        font-size: var(--h5-font) ;
+        font-weight: 500;
+        text-transform: capitalize;
+    }
+
+    span {
+        color: #8b0000;
+        background-color: #1b1b1b1b;
+        width: fit-content;
     }
