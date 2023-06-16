@@ -12,6 +12,7 @@
         --bg-color: #ffffff;
         --text-color: #000000;
         --second-color: #a09dab;
+        --third-color: #ff4500;
         --main-color: #f75023;
         --big-font:5rem;
         --h1-font:3.5rem;
@@ -119,7 +120,7 @@
 /*----HomeSectionCSS--------------------------------------------------------------------------------------------------*/
 
     section {
-        padding: 100px 20%;
+        padding: 150px 20%;
     }
 
     .home-sec {
@@ -136,7 +137,7 @@
     }
 
     .home-sec-text h1 {
-        margin: 10px 0px 25px;
+        margin: 10px 0px 20px;
         font-size: var(--h1-font);
         line-height: 1;
         font-weight: 500;
@@ -149,10 +150,11 @@
         line-height: 1;
         font-weight: 500;
         text-transform: capitalize;
+        color: #8b0000;
     }
 
     .home-sec-text h5 {
-        margin-bottom: 25px;
+        margin-bottom: 20px;
         font-size: var(--h5-font) ;
         font-weight: 500;
         text-transform: capitalize;
@@ -160,6 +162,34 @@
 
     span {
         color: #8b0000;
-        background-color: #1b1b1b1b;
+        background-color: #4b4b4b4b;
         width: fit-content;
+    }
+
+    .home-sec-text p {
+        font-size: var(--p-font);
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .social-media-icons a {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background: #8b0000;
+        /*background: rgba(255,0,0);*/
+        font-size: 20px;
+        color: #ffffff;
+        margin-right: 10px;
+        margin-left: 5px;
+        margin-bottom: 30px;
+        cursor: pointer;
+    }
+
+    .social-media-icons a:hover {
+        transform: scale(1.1);
+        background: var(--third-color);
     }
