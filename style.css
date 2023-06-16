@@ -192,4 +192,31 @@
     .social-media-icons a:hover {
         transform: scale(1.1);
         background: var(--third-color);
+        transition: .5s;
+    }
+
+    .about-btn {
+        display: inline-block;
+        color: #8b0000;
+        background: #4b4b4b4b;
+        text-transform: uppercase;
+        font-size: var(--p-font);
+        padding: 5px 40px;  /*top to bottom; left to right*/
+        font-weight: 500;
+        line-height: 25px;
+        border-radius: 30px;
+        transition: ease .40s;
+    }
+
+    .about-btn:hover {
+        transform: scale(1.1);
+        background-color: #000000;
+        color: #ffffff;
+        cursor: pointer;
+    }
+
+    .home-sec-img {
+        max-width: 100%;
+        width: 350px;
+        height: auto;
     }
