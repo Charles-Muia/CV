@@ -23,7 +23,9 @@
         color: var(--text-color);
     }
 
-    header {
+/*----HeaderSectionCSS------------------------------------------------------------------------------------------------*/
+
+        header {
         position: fixed;
         width: 100%;
         top: 0;
@@ -109,5 +111,28 @@
         background: black;
         border: 2px solid transparent;
         color: #ff0000;
+    }
+
+
+/*----HomeSectionCSS--------------------------------------------------------------------------------------------------*/
+
+    section {
+        padding: 100px 20%;
+    }
+
+    .home-sec {
+        min-height: 100vh;
+        height: 100%;
+        width: 100%;
+        background: url("Gallery/Background01.jpg") center;
+        background-size: cover;
+        position: relative;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        align-items: center;
+        grid-gap: 4rem;
+    }
+
+    .home-sec-text {
 
     }

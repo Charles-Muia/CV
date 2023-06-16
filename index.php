@@ -32,7 +32,7 @@
                 <div class="bx bx-menu" id="menu-icon"></div>
 
         <ul class="nav-links">
-            <li><a href="#home">home</a></li>
+            <li><a href="#Home">home</a></li>
             <li><a href="#about">about me</a></li>
             <li><a href="#services">services</a></li>
             <li><a href="#work">my work</a></li>
@@ -41,7 +41,29 @@
             <a href="#" class="top-btn">download my CV</a>
 </header>
 
+<!----HomeSection------------------------------------------------------------------------------------------------------>
 
+<section class="home-sec" id="Home">
+    <div class="home-sec-text">
+        <h3>Greetings, I'm</h3>
+            <h1>charles muia</h1>
+                <h5> passionate <span>ICT, Web & Digital Enthusiast</span></h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda in obcaecati praesentium.</p>
+            <div class="social-media-icons">
+                    <a href=""><i class='bx bxl-linkedin'></i></a>
+                    <a href=""><i class='bx bxl-whatsapp'></i></a>
+                    <a href=""><i class='bx bxl-facebook'></i></a>
+                    <a href=""><i class='bx bxl-twitter'></i></a>
+                    <a href=""><i class='bx bxl-github'></i></a>
+                    <a href=""><i class='bx bxl-youtube'></i></a>
+            </div>
+                     <a href="#" class="about-btn">about me</a>
+    </div>
+
+            <div class="home-sec-img">
+                <img src="Gallery/KingCharlesIII.jpg" alt="">
+            </div>
+</section>
 
 
 
