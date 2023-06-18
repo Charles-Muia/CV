@@ -104,8 +104,8 @@
             <img src="Gallery/Icon_1.png" alt="">
         </div>
                 <div class="abt-sec-text">
-                    <h3>I have design skills</h3>
-                    <h2>i can design posters </h2>
+                    <h3>I have design skills.</h3>
+                    <h2>i can design posters. </h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet corporis doloremque doloribus eius error est, fuga harum,
                             id iste magnam officia perspiciatis reiciendis rem repellendus reprehenderit suscipit unde ut, voluptatum.</p>
 
