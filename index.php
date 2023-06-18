@@ -97,6 +97,24 @@
         </div>
 </section>
 
+<!----AboutSection----------------------------------------------------------------------------------------------------->
+
+<section class="abt-sec" id="#about">
+        <div class="abt-sec-img">
+            <img src="Gallery/Icon_1.png" alt="">
+        </div>
+                <div class="abt-sec-text">
+                    <h3>I'm have design skills</h3>
+                    <h2>i can design posters </h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet corporis doloremque doloribus eius error est, fuga harum,
+                            id iste magnam officia perspiciatis reiciendis rem repellendus reprehenderit suscipit unde ut, voluptatum.</p>
+
+                    <a href="#" class="about-btn">hire me</a>
+
+                </div>
+
+</section>
+
 
 
 
