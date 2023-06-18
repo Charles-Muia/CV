@@ -304,7 +304,7 @@
     .abt-sec-text h2 {
         font-size: var(--h2-font);
         font-weight: 500;
-        margin: 8px 0px 25px;
+        margin: 8px 0px 30px;
         line-height: 1;
         text-transform: capitalize;
     }
@@ -312,7 +312,20 @@
     .abt-sec-text h3 {
         text-transform: capitalize;
         color: #8b0000;
-        font-size: 20px;
+        font-size: 22px;
         font-weight: 500;
+        margin-bottom: 25px;
     }
 
+    .abt-sec-text p {
+        max-width: 600px;
+        font-size: var(--p-font);
+        color: var(--4th-color);
+        line-height: 30px;
+        margin-bottom: 50px;
+        cursor: pointer;
+    }
+
+    .abt-sec-text p:hover {
+        color: #1b1b1b;
+    }
