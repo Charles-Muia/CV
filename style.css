@@ -266,6 +266,10 @@
     .serv-areas:hover {
         background: var(--5th-color);
         color: #8b0000;
+        box-shadow: 20px 0 90px 0px;
+        border-radius: 5px;
+        transition: ease-in .60s;
+        transform: translate(0, -10px);
     }
 
     .serv-img img {
