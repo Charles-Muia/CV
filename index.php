@@ -79,6 +79,7 @@
                 <h3>pixel perfect</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid consequuntur, laudantium nihil placeat possimus quisquam.</p>
             </div>
+
             <div class="serv-areas">
                 <div class="serv-img">
                     <img src="Gallery/Maintenance.jpg" alt="">
