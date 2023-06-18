@@ -14,7 +14,7 @@
         --second-color: #a09dab;
         --third-color: #ff4500;
         --4th-color: #4b4b4b;
-        --5th-color: #1b1b1b;
+        --5th-color: #1b1b1b1b;
         --main-color: #f75023;
         --big-font:5rem;
         --h1-font:3.5rem;
@@ -257,6 +257,15 @@
         font-size: var(--p-font);
         color: var(--4th-color);
         line-height: 29px;
+    }
+
+    .serv-areas p:hover{
+        color: #1b1b1b;
+    }
+
+    .serv-areas:hover {
+        background: var(--5th-color);
+        color: #8b0000;
     }
 
     .serv-img img {
