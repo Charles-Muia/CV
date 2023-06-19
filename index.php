@@ -115,8 +115,19 @@
 
 <!----MyworkSection---------------------------------------------------------------------------------------------------->
 
-<section class="work-sec">
+<section class="my-work-sec" id="work">
+        <div class="my-work-sec-heading">
+            <h3>my work</h3>
+                <h2>sampled projects</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, <br>
+                        impedit incidunt minima porro sit voluptatum.</p>
+        </div>
 
+        <div class="my-work-sec-samples">
+            <div class="col">
+                <img src="Gallery/Coding_1" alt="">
+            </div>
+        </div>
 </section>
 
 
