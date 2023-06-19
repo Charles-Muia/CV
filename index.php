@@ -34,8 +34,8 @@
         <ul class="nav-links">
             <li><a href="#Home">home</a></li>
             <li><a href="#about">about me</a></li>
-            <li><a href="#services">services</a></li>
             <li><a href="#work">my work</a></li>
+            <li><a href="#services">services</a></li>
             <li><a href="#contact">contact</a></li>
         </ul>
             <a href="#" class="top-btn">download my CV</a>
@@ -110,8 +110,12 @@
                             id iste magnam officia perspiciatis reiciendis rem repellendus reprehenderit suscipit unde ut, voluptatum.</p>
 
                     <a href="#" class="about-btn">hire me</a>
-
                 </div>
+</section>
+
+<!----MyworkSection---------------------------------------------------------------------------------------------------->
+
+<section class="work-sec">
 
 </section>
 
