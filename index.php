@@ -126,6 +126,50 @@
         <div class="my-work-sec-samples">
             <div class="col">
                 <img src="Gallery/Coding_1" alt="">
+                    <div class="my-work-sec-layer">
+                        <h3>web development & design</h3>
+                        <h5>popup</h5>
+                    </div>
+            </div>
+
+            <div class="col">
+                <img src="Gallery/Coding_1" alt="">
+                <div class="my-work-sec-layer">
+                    <h3>web development & design</h3>
+                    <h5>popup</h5>
+                </div>
+            </div>
+
+            <div class="col">
+                <img src="Gallery/Coding_1" alt="">
+                <div class="my-work-sec-layer">
+                    <h3>web development & design</h3>
+                    <h5>popup</h5>
+                </div>
+            </div>
+
+            <div class="col">
+                <img src="Gallery/Coding_1" alt="">
+                <div class="my-work-sec-layer">
+                    <h3>web development & design</h3>
+                    <h5>popup</h5>
+                </div>
+            </div>
+
+            <div class="col">
+                <img src="Gallery/Coding_1" alt="">
+                <div class="my-work-sec-layer">
+                    <h3>web development & design</h3>
+                    <h5>popup</h5>
+                </div>
+            </div>
+
+            <div class="col">
+                <img src="Gallery/Coding_1" alt="">
+                <div class="my-work-sec-layer">
+                    <h3>web development & design</h3>
+                    <h5>popup</h5>
+                </div>
             </div>
         </div>
 </section>
