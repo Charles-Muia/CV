@@ -356,3 +356,76 @@
         color: var(--4th-color);
         line-height: 25px ;
     }
+
+    .my-work-sec-samples {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+        grid-gap: 2rem;
+        align-items: center;
+        margin-top: 5rem;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    .col {
+        position: relative;
+    }
+
+    .col img {
+        max-width: 100%;
+        width: 350px;
+        height: auto;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .my-work-sec-layer {
+        background: transparent;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 15px;
+        transition: all .60s;
+    }
+
+    .my-work-sec-layer:hover {
+        background: linear-gradient(rgba(0,0,0,0.5) 0%, #1b1b1b1b);
+    }
+
+   .my-work-sec-layer h3 {
+       position: absolute;
+       width: 100%;
+       font-size: 25px;
+       font-weight: 500;
+       color: var(--bg-color);
+       bottom: 0;
+       left: 50%;
+       transform: translateX(-50%);
+       opacity: 0;
+       transition: all .60s;
+   }
+
+   .my-work-sec-layer:hover h3 {
+       bottom: 51%;
+       opacity: 1;
+   }
+
+    .my-work-sec-layer h5 {
+        position: absolute;
+        width: 100%;
+        font-size: 15px;
+        font-weight: 500;
+        color: var(--bg-color);
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        opacity: 0;
+        transition: all .60s;
+    }
+
+    .my-work-sec-layer:hover h5 {
+        bottom: 48%;
+        opacity: 1;
+    }
