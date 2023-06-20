@@ -174,6 +174,22 @@
         </div>
 </section>
 
+<!----MyExpertiseSection----------------------------------------------------------------------------------------------->
+
+<section class="expert-sec" id="services">
+            <div class="my-work-sec-heading">
+                <h3>my expertise</h3>
+                <h2>what i do for clients</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, <br>
+                    impedit incidunt minima porro sit voluptatum.</p>
+            </div>
+
+
+            <div>
+
+            </div>
+</section>
+
 
 
 
