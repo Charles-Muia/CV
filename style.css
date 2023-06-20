@@ -376,7 +376,7 @@
         width: 350px;
         height: auto;
         object-fit: cover;
-        border-radius: 10px;
+        border-radius: 15px;
     }
 
     .my-work-sec-layer {
@@ -386,7 +386,7 @@
         position: absolute;
         top: 0;
         left: 0;
-        border-radius: 25px;
+        border-radius: 15px;
         transition: all .60s;
     }
 
@@ -407,10 +407,11 @@
        transform: translateX(-50%);
        opacity: 0;
        transition: all .60s;
+       text-transform: capitalize;
    }
 
    .my-work-sec-layer:hover h3 {
-       bottom: 51%;
+       bottom: 52%;
        opacity: 1;
    }
 
@@ -425,6 +426,7 @@
         transform: translateX(-50%);
         opacity: 0;
         transition: all .60s;
+        text-transform: capitalize;
     }
 
     .my-work-sec-layer:hover h5 {

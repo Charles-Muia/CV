@@ -127,13 +127,29 @@
             <div class="col">
                 <img src="Gallery/Coding_1.jpg" alt="">
                     <div class="my-work-sec-layer">
-                        <h3>web development & design</h3>
+                        <h3>web design</h3>
                         <h5>popup</h5>
                     </div>
             </div>
 
             <div class="col">
-                <img src="Gallery/Coding_1.jpg" alt="">
+                <img src="Gallery/work1.jpg" alt="">
+                <div class="my-work-sec-layer">
+                    <h3>web design</h3>
+                    <h5>popup</h5>
+                </div>
+            </div>
+
+            <div class="col">
+                <img src="Gallery/work3.jpg" alt="">
+                <div class="my-work-sec-layer">
+                    <h3>web development <br> & <br> design</h3>
+                    <h5>popup</h5>
+                </div>
+            </div>
+
+            <div class="col">
+                <img src="Gallery/work1.jpg" alt="">
                 <div class="my-work-sec-layer">
                     <h3>web development & design</h3>
                     <h5>popup</h5>
@@ -141,7 +157,7 @@
             </div>
 
             <div class="col">
-                <img src="Gallery/Coding_1.jpg" alt="">
+                <img src="Gallery/work1.jpg" alt="">
                 <div class="my-work-sec-layer">
                     <h3>web development & design</h3>
                     <h5>popup</h5>
@@ -149,23 +165,7 @@
             </div>
 
             <div class="col">
-                <img src="Gallery/Coding_1.jpg" alt="">
-                <div class="my-work-sec-layer">
-                    <h3>web development & design</h3>
-                    <h5>popup</h5>
-                </div>
-            </div>
-
-            <div class="col">
-                <img src="Gallery/Coding_1.jpg" alt="">
-                <div class="my-work-sec-layer">
-                    <h3>web development & design</h3>
-                    <h5>popup</h5>
-                </div>
-            </div>
-
-            <div class="col">
-                <img src="Gallery/Coding_1.jpg" alt="">
+                <img src="Gallery/work1.jpg" alt="">
                 <div class="my-work-sec-layer">
                     <h3>web development & design</h3>
                     <h5>popup</h5>
