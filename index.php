@@ -235,6 +235,9 @@
            <div class="wrapper">
                 <div class="container">
                     <i class='bx bxl-upwork'></i>
+                        <span class="count-sec-num" data-val="400">000</span>
+                        <span class="count-sec-txt">projects delivered</span>
+
                 </div>
            </div>
 </section>
