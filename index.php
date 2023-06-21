@@ -193,36 +193,36 @@
         <div class="expert-sec-content">
                 <div class="row">
                         <div class="expert-sec-box1">
-                            <img src="Gallery/Target.jpg" alt="">
+                            <img src="Gallery/Hardware.png" alt="">
                         </div>
-                    <h3>web design</h3>
+                    <h3>ICT system support</h3>
                     <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
                 </div>
 
                 <div class="row">
                         <div class="expert-sec-box2">
-                            <img src="Gallery/Target.jpg" alt="">
+                            <img src="Gallery/web-development.png" alt="">
                         </div>
-                    <h3>web design</h3>
+                    <h3>web design & hosting</h3>
                     <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
                 </div>
 
                 <div class="row">
                          <div class="expert-sec-box3">
-                                <img src="Gallery/Target.jpg" alt="">
+                                <img src="Gallery/brand.svg" alt="">
                          </div>
-                    <h3>web design</h3>
+                    <h3>social media & branding</h3>
                     <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
                 </div>
 
                 <div class="row">
                         <div class="expert-sec-box4">
-                                <img src="Gallery/Target.jpg" alt="">
+                                <img src="Gallery/ICT.png" alt="">
                         </div>
-                    <h3>web design</h3>
+                    <h3>ICT & office equipments</h3>
                     <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
                 </div>

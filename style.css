@@ -475,11 +475,11 @@
     }
 
     .row img {
-        height: 75px;
-        width: 75px;
+        height: 100px;
+        width: 100px;
         background: #8b0000;
         padding: 15px;
-        border-radius: 50%;
+        border-radius: 5%;
         margin-bottom: 20px;
     }
 
@@ -493,11 +493,13 @@
     }
 
     .expert-sec-box3 img {
-        background: #191970;
+        background: #edeade;
     }
 
     .expert-sec-box4 img {
-        background: #301934;
+        /*background: #301934;*/
+        background: #add8e6;
+
     }
 
     .row h3 {
@@ -523,12 +525,10 @@
         background: var(--third-color);
         transition: .9s;
         box-shadow: 15px 0 90px 0px;
-
     }
 
     .row:hover p {
         color: var(--bg-color);
-
     }
 
     .row span {
@@ -542,4 +542,10 @@
     .row:hover h3 {
         color: #faf9f6;
     }
+
+    .row:hover img {
+        background: #fbceb1;
+    }
+
+
 
