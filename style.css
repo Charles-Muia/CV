@@ -484,7 +484,8 @@
     }
 
     .expert-sec-box1 img {
-        background: #f75124;
+        /*background: #f75124;*/
+        background: darkorange;
     }
 
     .expert-sec-box2 img {
@@ -520,10 +521,25 @@
     .row:hover {
         transform: scale(1.1);
         background: var(--third-color);
-        transition: .5s;
+        transition: .9s;
+        box-shadow: 20px 0 90px 0px;
+
     }
 
     .row:hover p {
         color: var(--bg-color);
+
+    }
+
+    .row span {
+        background: transparent;
+    }
+
+    .row:hover span {
+        color: #28282B;
+    }
+
+    .row:hover h3 {
+        color: #faf9f6;
     }
 
