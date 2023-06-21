@@ -499,4 +499,31 @@
         background: #301934;
     }
 
+    .row h3 {
+        font-size: 25px;
+        font-weight: 500;
+        margin-bottom: 4px;
+        text-transform: capitalize;
+    }
+
+    .row h5 {
+        font-size: 15px;
+        font-weight: 500;
+        margin-bottom: 20px;
+    }
+
+    .row p {
+        /*font-size: var(--p-font);*/
+        line-height: 25px;
+    }
+
+    .row:hover {
+        transform: scale(1.1);
+        background: var(--third-color);
+        transition: .5s;
+    }
+
+    .row:hover p {
+        color: var(--bg-color);
+    }
 
