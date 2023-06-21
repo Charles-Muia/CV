@@ -173,18 +173,56 @@
             </div>
         </div>
 </section>
+<hr class="hr1">
+
 
 <!----MyExpertiseSection----------------------------------------------------------------------------------------------->
 
 <section class="expert-sec" id="services">
-            <div class="my-work-sec-heading">
-                <h3>my expertise</h3>
-                <h2>what i do for clients</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, <br>
-                    impedit incidunt minima porro sit voluptatum.</p>
-            </div>
+        <div class="my-work-sec-heading">
+                        <h3>my expertise</h3>
+                            <h2>what i do for clients</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, <br>
+                            impedit incidunt minima porro sit voluptatum.</p>
+        </div>
 
+        <div class="expert-sec-content">
+                <div class="row">
+                        <div class="expert-sec-box1">
+                            <img src="Gallery/Target.jpg" alt="">
+                        </div>
+                    <h3>web design</h3>
+                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
+                </div>
 
+                <div class="row">
+                        <div class="expert-sec-box2">
+                            <img src="Gallery/Target.jpg" alt="">
+                        </div>
+                    <h3>web design</h3>
+                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
+                </div>
+
+                <div class="row">
+                         <div class="expert-sec-box3">
+                                <img src="Gallery/Target.jpg" alt="">
+                         </div>
+                    <h3>web design</h3>
+                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
+                </div>
+
+                <div class="row">
+                        <div class="expert-sec-box4">
+                                <img src="Gallery/Target.jpg" alt="">
+                        </div>
+                    <h3>web design</h3>
+                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
+                </div>
+        </div>
 </section>
 
 
