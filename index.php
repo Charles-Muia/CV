@@ -7,6 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title> Charles Muia | Home </title>
 
+<!--Favicon Icon------------------------------------------------------------------------------------------------------->
+
+    <link rel="icon" href="Gallery/Logo.JPG">
+
 <!--CSS Style Sheets--------------------------------------------------------------------------------------------------->
 
     <link rel="stylesheet" href="reset.css">

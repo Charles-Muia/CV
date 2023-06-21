@@ -522,7 +522,7 @@
         transform: scale(1.1);
         background: var(--third-color);
         transition: .9s;
-        box-shadow: 20px 0 90px 0px;
+        box-shadow: 15px 0 90px 0px;
 
     }
 
