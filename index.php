@@ -61,8 +61,6 @@
                     <a href=""><i class='bx bxl-github'></i></a>
                     <a href=""><i class='bx bxl-youtube'></i></a>
                     <a href=""><i class='bx bxl-stack-overflow'></i></a>
-
-
             </div>
                      <a href="#" class="about-btn">about me</a>
     </div>
@@ -228,7 +226,18 @@
                 </div>
         </div>
 </section>
+<hr class="hr1">
 
+
+<!----CounterSection--------------------------------------------------------------------------------------------------->
+
+<section class="count-sec">
+           <div class="wrapper">
+                <div class="container">
+                    <i class='bx bxl-upwork'></i>
+                </div>
+           </div>
+</section>
 
 
 

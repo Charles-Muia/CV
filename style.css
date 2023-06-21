@@ -499,7 +499,6 @@
     .expert-sec-box4 img {
         /*background: #301934;*/
         background: #add8e6;
-
     }
 
     .row h3 {
@@ -547,5 +546,15 @@
         background: #fbceb1;
     }
 
+/*----CounterSection--------------------------------------------------------------------------------------------------*/
+
+    .wrapper {
+        border: 1px solid #000000;
+        position: absolute;
+        width: 60vw;
+        left: 20%;
+        display: flex;
+
+    }
 
 
