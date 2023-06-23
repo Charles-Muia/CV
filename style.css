@@ -647,6 +647,38 @@
 /*    }*/
 
 
-    
+/*----Webpage Media Query CSS-----------------------------------------------------------------------------------------*/
+
+        @media screen and (max-width: 1425px) {
+            header {
+                padding: 12px 5%;
+                transition: 3s;
+            }
+
+            section {
+                padding: 70px 3%;
+                transition: 3s;
+            }
+
+            :root {
+                --big-font: 3.5rem;
+                --h2-font: 2.1rem;
+                --p-font: 1rem;
+                transition: .3s;
+            }
+        }
+
+        @media screen and (max-width: 970px) {
+            #menu-icon {
+                display: block;
+            }
+
+            .home-sec {
+                min-height: 80vh;
+            }
+        }
+
+
+
 
 
