@@ -580,7 +580,6 @@
         font-size: var(--h2-font);
         margin: auto;
         width: 50%;
-
     }
 
     .count-sec-txt {
@@ -602,6 +601,22 @@
         text-align: center;
     }
 
-    s
+/*----CounterSection--------------------------------------------------------------------------------------------------*/
+
+    @media screen and (max-width: 1024px) {
+        .wrapper {
+            width: 85vw;
+        }
+
+        .container {
+            height: 26vmin;
+            width: 26vmin;
+            font-size: 12px;
+        }
+    }
+
+
+
+    
 
 
