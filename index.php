@@ -31,7 +31,7 @@
 
 <!----HeaderSection---------------------------------------------------------------------------------------------------->
 
-<header>
+<header class="sticky">
         <a href="#" class="logo"><img src="Gallery/Logo.JPG" alt=""></a>
                 <div class="bx bx-menu" id="menu-icon"></div>
 
@@ -227,6 +227,9 @@
         </div>
 </section>
 <hr class="hr1">
+
+<script src="https://unpkg.com/scrollreveal"></script>
+
 
 
 <!----CounterSection--------------------------------------------------------------------------------------------------->
