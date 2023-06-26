@@ -778,13 +778,15 @@
 /*----Contact Section CSS---------------------------------------------------------------------------------------------*/
 
     .contact-sec {
-        margin-top: 150px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-        background: #a09dab;
-        /*background: #696969;*/
+        margin-top: 0px;
+        padding-top: 140px;
+
+        /*display: flex;*/
+        /*justify-content: center;*/
+        /*align-items: center;*/
+        /*min-height: 100vh;*/
+        /*background: #a09dab;*/
+        /*!*background: #696969;*!*/
     }
 
 
