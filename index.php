@@ -101,7 +101,7 @@
 
 <!----AboutSection----------------------------------------------------------------------------------------------------->
 
-<section class="abt-sec" id="#about">
+<section class="abt-sec" id="about">
         <div class="abt-sec-img">
             <img src="Gallery/Icon_1.png" alt="">
         </div>
@@ -230,8 +230,6 @@
 
 <script src="https://unpkg.com/scrollreveal"></script>
 
-
-
 <!----CounterSection--------------------------------------------------------------------------------------------------->
 
 <!--<section class="count-sec">-->
@@ -261,30 +259,6 @@
 <!--               </div>-->
 <!--           </div>-->
 <!--</section>-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!----JS--------------------------------------------------------------------------------------------------------------->
 <script type="text/javascript" src="script.js" </script>
