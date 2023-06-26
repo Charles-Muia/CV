@@ -228,6 +228,16 @@
 </section>
 <hr class="hr1">
 
+
+<!----ContactSection----------------------------------------------------------------------------------------------->
+
+<section class="contact-sec" id="contact">
+            <div class="container">
+                <div class="contact-info"></div>
+                <div class="contact-form"></div>
+            </div>
+</section>
+
 <script src="https://unpkg.com/scrollreveal"></script>
 
 <!----CounterSection--------------------------------------------------------------------------------------------------->
