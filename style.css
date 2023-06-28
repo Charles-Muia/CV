@@ -779,16 +779,25 @@
 
     .contact-sec {
         margin-top: 0px;
-        padding-top: 140px;
-
+        padding-top: 150px;
         /*display: flex;*/
-        /*justify-content: center;*/
-        /*align-items: center;*/
-        /*min-height: 100vh;*/
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
         /*background: #a09dab;*/
         /*!*background: #696969;*!*/
     }
 
+    .container {
+        width: 100%;
+        padding: 20px 60px 40px 40px;
+        background: #d6d6d6;
+        border-radius: 10px;
+        margin-top: 100px;
+        box-shadow: 20px 0px 90px 0px rgb(10 15 75 / 8%);
+
+
+    }
 
 
 
