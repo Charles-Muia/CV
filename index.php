@@ -241,8 +241,16 @@
             </div>
 
             <div class="container">
-                <div class="contact-info"></div>
-                <div class="contact-form"></div>
+                <div class="contact-info-content">
+                    <div class="contact-form">
+                        <div class="contact-info-address">
+                            <i class='bx bxs-map'></i>
+                                <div class="topic">address</div>
+                                    <div class="text-one">global</div>
+                                        <div class="text-two">+254 KE</div>
+                        </div>
+                    </div>
+                </div>
             </div>
 </section>
 
