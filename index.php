@@ -243,21 +243,21 @@
             <div class="container">
                 <div class="contact-info-content">
                     <div class="contact-form-left">
-                        <div class="contact-info-address">
+                        <div class="contact-info address">
                             <i class='bx bxs-map'></i>
                                 <div class="topic">address</div>
-                                    <div class="text-one">global</div>
+                                    <div class="text-one">Global Citizen</div>
                                         <div class="text-two">+254 KE</div>
                         </div>
 
-                        <div class="contact-info-phone">
+                        <div class="contact-info phone">
                             <i class='bx bxs-phone-incoming'></i>
                             <div class="topic">phone</div>
                             <div class="text-one">+254 724 563 163</div>
                             <div class="text-two">+254 724 563 163</div>
                         </div>
 
-                        <div class="contact-info-email">
+                        <div class="contact-info email">
                             <i class='bx bxs-envelope'></i>
                             <div class="topic">email</div>
                             <div class="text-one">Charles_Muia@outlook.com</div>
@@ -269,7 +269,7 @@
                         <div class="topic-text">you can reach-out</div>
                         <p>If you have any work or project related to my expertise, you can send me a message by filling out the form below.
                         It will be my pleasure to bring your idea to reality.</p>
-                    </div>
+
 
                     <form action="">
                             <div class="form-input">
@@ -279,12 +279,13 @@
                                 <input type="text" placeholder="Enter Your Email Address">
                                 </div>
                                 <div class="form-input message-box">
-                                <textarea></textarea>
+                                <textarea placeholder="Type Here!"></textarea>
                                 </div>
                             <div class="form-button">
                             <input type="button" value="Click To Send Message">
                             </div>
                     </form>
+                  </div>
                 </div>
             </div>
 </section>
