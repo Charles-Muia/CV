@@ -790,7 +790,7 @@
 
     .container {
         width: 100%;
-        padding: 20px 60px 40px 40px;
+        padding: 30px 60px 40px 40px;
         background: #d6d6d6;
         border-radius: 10px;
         margin-top: 100px;
@@ -806,6 +806,7 @@
     .container .contact-info-content .contact-form-left {
         width: 25%;
         height: 100%;
+        margin-top: 15px;
         position: relative;
     }
 
@@ -813,8 +814,8 @@
         content: '';
         position: absolute;
         height: 70%;
-        width: 3px;
-        right: -15px;
+        width: 2px;
+        right: -32px;
         top: 50%;
         transform: translateY(-50%);
         background: var(--main-color);
@@ -853,7 +854,12 @@
         text-transform: capitalize;
     }
 
-   .form-input {
+    .contact-form-right .message-box {
+        min-height: 100px;
+        margin-top: 5px;
+    }
+
+    .form-input {
         height: 40px;
         width: 100%;
         margin: 10px 0;
@@ -869,13 +875,31 @@
        font-size: 15px;
        font-weight: 500;
        padding: 0 15px;
+       resize: none;
    }
 
-
-    .contact-form-right .message-box {
-        min-height: 100px;
-        resize: none;
+    .form-button {
+        display: inline-block;
+        color: #8b0000;
+        background: #4b4b4b4b;
+        text-transform: uppercase;
+        font-size: var(--p-font);
+        padding: 5px 20px;  /*top to bottom; left to right*/
+        font-weight: 500;
+        line-height: 25px;
+        border-radius: 30px;
+        transition: all ease .40s;
+        cursor: pointer;
+        margin-top: 15px;
     }
+
+    .form-button:hover {
+        /*transform: scale(1.1);*/
+        background: black;
+        /*border: 0px solid transparent;*/
+        color: #ff0000;
+    }
+
 
 
 
