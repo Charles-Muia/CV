@@ -266,7 +266,7 @@
                     </div>
 
                     <div class="contact-form-right">
-                        <div class="topic-text">you can reach-out</div>
+                        <div class="topic-text">you can reachout</div>
                         <p>If you have any work or project related to my expertise, you can send me a message by filling out the form below.
                         It will be my pleasure to bring your idea to reality.</p>
 

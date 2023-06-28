@@ -797,6 +797,12 @@
         box-shadow: 20px 0px 90px 0px rgb(10 15 75 / 8%);
     }
 
+    .container .topic {
+        font-size: 18px;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+
     .container .contact-info-content {
         display: flex;
         align-items: center;
@@ -832,14 +838,10 @@
         margin-bottom: 10px;
     }
 
-    .contact-info-content .contact-form-left .contact-info .topic {
-        font-size: 20px;
-        font-weight: 500;
-    }
-
     .contact-info-content .contact-form-left .contact-info .text-one,
     .contact-info-content .contact-form-left .contact-info .text-two {
         font-size: 15px;
+        /*font-weight: 250;*/
     }
 
     .container .contact-info-content .contact-form-right {
@@ -850,8 +852,9 @@
     .contact-info-content .contact-form-right .topic-text {
         font-size: 25px;
         font-weight: 500;
-        margin-bottom: 4px;
+        margin-bottom: 10px;
         text-transform: capitalize;
+        color: #8b0000;
     }
 
     .contact-form-right .message-box {
