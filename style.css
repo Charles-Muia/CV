@@ -1058,7 +1058,6 @@
         width: 32px;
         align-content: center;
         justify-content: center;
-
     }
 
     footer .container-1 .contact-infor li a {
@@ -1066,6 +1065,13 @@
         margin-left: 5px;
     }
 
+    .copyright-text {
+        width: 100%;
+        padding: 20px 100px 30px;
+        text-align: center;
+        border-top: 1px solid var(--main-color);
+
+    }
 
 
 
