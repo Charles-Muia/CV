@@ -293,12 +293,12 @@
 
 <section class="footer-sec">
     <footer>
-        <div class="container_1">
+        <div class="container-1">
             <div class="sec about-us">
-                <h2>about me</h2>
+                <h3>about me</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                         Aut commodi doloremque eum ipsam ipsum laboriosam quia quod ratione voluptatem voluptates!</p>
-            </div>
+
                     <ul class="sci">
                         <li><a href=""><i class='bx bxl-facebook'></i></a></li>
                         <li><a href=""><i class='bx bxl-linkedin'></i></a></li>
@@ -306,8 +306,9 @@
                         <li> <a href=""><i class='bx bxl-github'></i></a></li>
                         <li><a href=""><i class='bx bxl-stack-overflow'></i></a></li>
                     </ul>
+            </div>
             <div class="sec quick-links">
-                <h2>quick links</h2>
+                <h3>quick links</h3>
                     <ul>
                         <li><a href="#Home">home</a></li>
                         <li><a href="#about">about me</a></li>
@@ -317,7 +318,7 @@
                     </ul>
             </div>
             <div class="sec quick-links">
-                <h2>about me</h2>
+                <h3>about me</h3>
                 <ul>
                     <li><a href="#Home">home</a></li>
                     <li><a href="#about">about me</a></li>
@@ -327,7 +328,7 @@
                 </ul>
             </div>
             <div class="sec contact-us">
-                <h2>contact me</h2>
+                <h3>contact me</h3>
                 <ul class="contact-infor">
                     <li>
                         <span><i class='bx bxs-phone-incoming'></i></span>
@@ -335,7 +336,7 @@
                     </li>
                     <li>
                         <span> <i class='bx bxs-envelope'></i></span>
-                        <p><a href="mailto:Charles.K.Muia@gmail.com">Charles.K.Muia@gmail.com</a></p>
+                        <p><a href="mailto:Charles.K.Muia@gmail.com"> Charles.K.Muia@gmail.com</a></p>
                     </li>
                 </ul>
             </div>

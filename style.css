@@ -947,6 +947,131 @@
 
 /*----Footer Section CSS----------------------------------------------------------------------------------------------*/
 
+    .footer-sec {
+        display: grid;
+        justify-content: center;
+        align-items: end;
+        min-height: 100vh;
+        background: #28282B;
+        color: #f1f1f1;
+        padding: 50px ;
+    }
+
+    footer {
+        position: relative;
+        width: 100%;
+        height: auto;
+        padding: 50px 100px ;
+        background: transparent;
+    }
+
+    footer .container-1 {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 2fr 1fr 1fr 1fr;
+        grid-gap: 25px;
+    }
+
+    footer h3 {
+        font-size: var(--h5-font);
+        text-transform: uppercase;
+        color: var(--main-color);
+        margin-bottom: 3rem;
+        position: relative;
+    }
+
+    footer .container-1 .sec p {
+        color: #ffffff;
+    }
+
+    footer .container-1 .sci {
+        margin-top: 30px;
+        display: grid;
+        grid-template-columns: repeat(5, 50px);
+    }
+
+    footer .container-1 .sci li {
+        list-style: none;
+    }
+
+    footer .container-1 .sci li a {
+        /*display: inline-block;*/
+        display: grid;
+        width: 35px;
+        height: 35px;
+        background: #f1f1f1;
+        align-content: center;
+        justify-content: center;
+        text-align: center;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    footer .container-1 .sci li a i {
+        /*color: #1b1b1b;*/
+        color: #8b0000;
+        font-size: 25px;
+        margin: auto;
+    }
+
+    footer .container-1 .quick-links {
+        position: relative;
+    }
+
+    footer .container-1 .quick-links ul li {
+        list-style: none;
+    }
+
+    footer .container-1 .quick-links ul li a {
+        margin-bottom: 20px;
+        display: inline-block;
+        text-decoration: none;
+        color: #ffffff;
+        text-transform: capitalize;
+    }
+
+    footer .container-1 .contact-infor {
+        position: relative;
+    }
+
+    footer .container-1 .contact-infor li {
+        display: grid;
+        grid-template-columns: 30px 1fr;
+        margin-bottom: 16px;
+    }
+
+    footer .container-1 .contact-infor li span {
+        /*background: #f1f1f1;*/
+        background: transparent;
+        width: 30px;
+        height: 30px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    footer .container-1 .contact-infor li span i {
+        color: #8b0000;
+        font-size: 23px;
+        text-align: center;
+        background: #f1f1f1;
+        height: 32px;
+        width: 32px;
+        align-content: center;
+        justify-content: center;
+
+    }
+
+    footer .container-1 .contact-infor li a {
+        text-decoration: none;
+        margin-left: 5px;
+    }
+
+
+
+
+
+
+
     /*.footer-sec .container {*/
     /*    background: #353935;*/
     /*    color: white;*/
