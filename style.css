@@ -1054,15 +1054,19 @@
         font-size: 23px;
         text-align: center;
         background: #f1f1f1;
-        height: 32px;
-        width: 32px;
+        height: 35px;
+        width: 35px;
         align-content: center;
         justify-content: center;
+        /*border-radius: 50%;*/
+        padding-top: 3px;
     }
 
     footer .container-1 .contact-infor li a {
         text-decoration: none;
-        margin-left: 5px;
+        margin-left: 10px;
+        display: inline-block;
+        padding-top: 3px;
     }
 
     .copyright-text {
