@@ -270,17 +270,16 @@
                         <p>If you have any work or project related to my expertise, you can send me a message by filling out the form below.
                         It will be my pleasure to bring your idea to reality.</p>
 
-
                     <form action="">
                             <div class="form-input">
                                 <input type="text" placeholder="Enter Your Name">
                             </div>
-                                <div class="form-input">
-                                <input type="text" placeholder="Enter Your Email Address">
-                                </div>
-                                <div class="form-input message-box">
-                                <textarea placeholder="Type Here!"></textarea>
-                                </div>
+                                    <div class="form-input">
+                                    <input type="text" placeholder="Enter Your Email Address">
+                                    </div>
+                                    <div class="form-input message-box">
+                                    <textarea placeholder="Type Here!"></textarea>
+                                    </div>
                             <div class="form-button">
                             <input type="button" value="Send Message">
                             </div>
@@ -289,6 +288,63 @@
                 </div>
             </div>
 </section>
+
+<!----FooterSection---------------------------------------------------------------------------------------------------->
+
+<section class="footer-sec">
+        <div class="footer">
+            <div class="sec home">
+                <h2>home</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Adipisci architecto beatae cupiditate doloribus iure molestiae necessitatibus nemo obcaecati quia rerum.</p>
+                            <ul class="sci">
+                                <li><a href="#"><i class='bx bxl-linkedin'></i></a></li>
+                                <li><a href="#"><i class='bx bxl-facebook'></i></a></li>
+                                <li><a href="#"><i class='bx bxl-twitter'></a></li>
+                                <li><a href="#"><i class='bx bxl-whatsapp'></i></a></li>
+                                <li><a href="#"><i class='bx bxl-github'></i></a></li>
+                            </ul>
+            </div>
+                    <div class="sec quick-links">
+                        <h2>quick links</h2>
+                            <ul>
+                                <li><a href="#Home">home</a></li>
+                                <li><a href="#about">about me</a></li>
+                                <li><a href="#work">my work</a></li>
+                                <li><a href="#services">services</a></li>
+                                <li><a href="#contact">contact</a></li>
+                            </ul>
+                    </div>
+                    <div class="sec work">
+                        <h2>home</h2>
+                            <ul>
+                                <li><a href="#Home">home</a></li>
+                                <li><a href="#about">about me</a></li>
+                                <li><a href="#work">my work</a></li>
+                                <li><a href="#services">services</a></li>
+                                <li><a href="#contact">contact</a></li>
+                            </ul>
+                    </div>
+                    <div class="sec contact">
+                        <h2>Contact me</h2>
+                            <ul class="info-text">
+                                <li>
+                                    <span><i class='bx bxs-phone-incoming'></i></span>
+                                    <p><a href="Mobile:0724563163">+254 724 563 163</a></p>
+                                </li>
+                                <li>
+                                    <span><i class='bx bxs-envelope'></i></span>
+                                    <p><a href="mailto:">Charles_Muia@gmail.com</a></p>
+                                </li>
+                            </ul>
+                    </div>
+        </div>
+</section>
+
+                    <div class="Copyright-text">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, rerum.</p>
+                    </div>
+
 
 <script src="https://unpkg.com/scrollreveal"></script>
 
@@ -323,6 +379,7 @@
 <!--</section>-->
 
 <!----JS--------------------------------------------------------------------------------------------------------------->
+
 <script type="text/javascript" src="script.js" </script>
 
 </body>
