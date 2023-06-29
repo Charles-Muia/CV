@@ -282,7 +282,7 @@
                                 <textarea placeholder="Type Here!"></textarea>
                                 </div>
                             <div class="form-button">
-                            <input type="button" value="Click To Send Message">
+                            <input type="button" value="Send Message">
                             </div>
                     </form>
                   </div>
