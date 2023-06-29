@@ -292,59 +292,59 @@
 <!----FooterSection---------------------------------------------------------------------------------------------------->
 
 <section class="footer-sec">
-        <div class="footer">
-            <div class="sec home">
-                <h2>home</h2>
+    <footer>
+        <div class="container_1">
+            <div class="sec about-us">
+                <h2>about me</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Adipisci architecto beatae cupiditate doloribus iure molestiae necessitatibus nemo obcaecati quia rerum.</p>
-                            <ul class="sci">
-                                <li><a href="#"><i class='bx bxl-linkedin'></i></a></li>
-                                <li><a href="#"><i class='bx bxl-facebook'></i></a></li>
-                                <li><a href="#"><i class='bx bxl-twitter'></a></li>
-                                <li><a href="#"><i class='bx bxl-whatsapp'></i></a></li>
-                                <li><a href="#"><i class='bx bxl-github'></i></a></li>
-                            </ul>
+                        Aut commodi doloremque eum ipsam ipsum laboriosam quia quod ratione voluptatem voluptates!</p>
             </div>
-                    <div class="sec quick-links">
-                        <h2>quick links</h2>
-                            <ul>
-                                <li><a href="#Home">home</a></li>
-                                <li><a href="#about">about me</a></li>
-                                <li><a href="#work">my work</a></li>
-                                <li><a href="#services">services</a></li>
-                                <li><a href="#contact">contact</a></li>
-                            </ul>
-                    </div>
-                    <div class="sec work">
-                        <h2>home</h2>
-                            <ul>
-                                <li><a href="#Home">home</a></li>
-                                <li><a href="#about">about me</a></li>
-                                <li><a href="#work">my work</a></li>
-                                <li><a href="#services">services</a></li>
-                                <li><a href="#contact">contact</a></li>
-                            </ul>
-                    </div>
-                    <div class="sec contact">
-                        <h2>Contact me</h2>
-                            <ul class="info-text">
-                                <li>
-                                    <span><i class='bx bxs-phone-incoming'></i></span>
-                                    <p><a href="Mobile:0724563163">+254 724 563 163</a></p>
-                                </li>
-                                <li>
-                                    <span><i class='bx bxs-envelope'></i></span>
-                                    <p><a href="mailto:">Charles_Muia@gmail.com</a></p>
-                                </li>
-                            </ul>
-                    </div>
+                    <ul class="sci">
+                        <li><a href=""><i class='bx bxl-facebook'></i></a></li>
+                        <li><a href=""><i class='bx bxl-linkedin'></i></a></li>
+                        <li><a href=""><i class='bx bxl-github'></i></a></li>
+                        <li> <a href=""><i class='bx bxl-github'></i></a></li>
+                        <li><a href=""><i class='bx bxl-stack-overflow'></i></a></li>
+                    </ul>
+            <div class="sec quick-links">
+                <h2>quick links</h2>
+                    <ul>
+                        <li><a href="#Home">home</a></li>
+                        <li><a href="#about">about me</a></li>
+                        <li><a href="#work">my work</a></li>
+                        <li><a href="#services">services</a></li>
+                        <li><a href="#contact">contact</a></li>
+                    </ul>
+            </div>
+            <div class="sec quick-links">
+                <h2>about me</h2>
+                <ul>
+                    <li><a href="#Home">home</a></li>
+                    <li><a href="#about">about me</a></li>
+                    <li><a href="#work">my work</a></li>
+                    <li><a href="#services">services</a></li>
+                    <li><a href="#contact">contact</a></li>
+                </ul>
+            </div>
+            <div class="sec contact-us">
+                <h2>contact me</h2>
+                <ul class="contact-infor">
+                    <li>
+                        <span><i class='bx bxs-phone-incoming'></i></span>
+                        <p><a href="mobile+254724563163">+254 724 563 163</a></p>
+                    </li>
+                    <li>
+                        <span> <i class='bx bxs-envelope'></i></span>
+                        <p><a href="mailto:Charles.K.Muia@gmail.com">Charles.K.Muia@gmail.com</a></p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+        <div class="copyright-text">
+            <p>Copyright 2023 &#169 Charles Muia - Passionate ICT & Digital Professional. All rights reserved. </p>
         </div>
 </section>
-
-                    <div class="Copyright-text">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, rerum.</p>
-                    </div>
-
 
 <script src="https://unpkg.com/scrollreveal"></script>
 

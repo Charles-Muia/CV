@@ -947,21 +947,13 @@
 
 /*----Footer Section CSS----------------------------------------------------------------------------------------------*/
 
-    .footer-sec {
-        display: grid;
-        justify-content: end;
-        align-content: end;
-        min-height: 100vh;
-        background: #343434;
-        padding: 50px;
-        color: #e3e3e3;
-    }
+    /*.footer-sec .container {*/
+    /*    background: #353935;*/
+    /*    color: white;*/
+    /*    !*background: none;*!*/
+    /*    !*box-shadow: none;*!*/
+    /*}*/
 
-    .footer {
-        position: relative;
-        width: 100%;
-        height: auto;
-    }
 
 
 
