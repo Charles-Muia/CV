@@ -1074,7 +1074,34 @@
         padding: 20px 100px 30px;
         text-align: center;
         border-top: 1px solid var(--main-color);
+    }
 
+/*----Footer Media Query CSS-----------------------------------------------------------------------------------------*/
+
+    @media screen and (max-width: 991px) {
+        footer {
+            padding: 40px;
+        }
+
+        footer .container-1 {
+            width: 100%;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: 20px;
+        }
+
+        .copyright-text {
+            padding: 20px 40px 30px;
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        footer .container-1 {
+            width: 100%;
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+            grid-gap: 20px;
+        }
     }
 
 
