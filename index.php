@@ -347,7 +347,7 @@
         </div>
 </section>
 
-<script src="https://unpkg.com/scrollreveal"></script>
+<script src="https://unpkg.com/ScrollReveal"></script>
 
 <!----CounterSection--------------------------------------------------------------------------------------------------->
 

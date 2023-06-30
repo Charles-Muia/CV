@@ -1028,6 +1028,11 @@
         text-decoration: none;
         color: #ffffff;
         text-transform: capitalize;
+        cursor: pointer;
+    }
+
+    footer .container-1 .quick-links ul li a:hover {
+        color: #8b0000;
     }
 
     footer .container-1 .contact-infor {
@@ -1038,6 +1043,7 @@
         display: grid;
         grid-template-columns: 30px 1fr;
         margin-bottom: 16px;
+        list-style: none;
     }
 
     footer .container-1 .contact-infor li span {
@@ -1067,6 +1073,7 @@
         margin-left: 10px;
         display: inline-block;
         padding-top: 3px;
+        pointer-events: none; /*this disables the link from being active.*/
     }
 
     .copyright-text {
