@@ -318,13 +318,13 @@
                     </ul>
             </div>
             <div class="sec quick-links">
-                <h3>about me</h3>
+                <h3>recent</h3>
                 <ul>
-                    <li><a href="#Home">home</a></li>
-                    <li><a href="#about">about me</a></li>
-                    <li><a href="#work">my work</a></li>
-                    <li><a href="#services">services</a></li>
-                    <li><a href="#contact">contact</a></li>
+                    <li><a href="#">social media</a></li>
+                    <li><a href="#about">blog</a></li>
+                    <li><a href="#work">website</a></li>
+                    <li><a href="#services">digital</a></li>
+                    <li><a href="#contact">bulk SMS</a></li>
                 </ul>
             </div>
             <div class="sec contact-us">
