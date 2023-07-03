@@ -303,7 +303,7 @@
                         <li><a href=""><i class='bx bxl-facebook'></i></a></li>
                         <li><a href=""><i class='bx bxl-linkedin'></i></a></li>
                         <li><a href=""><i class='bx bxl-github'></i></a></li>
-                        <li> <a href=""><i class='bx bxl-github'></i></a></li>
+                        <li> <a href=""><i class='bx bxl-twitter'></i></a></li>
                         <li><a href=""><i class='bx bxl-stack-overflow'></i></a></li>
                     </ul>
             </div>
