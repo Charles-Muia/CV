@@ -194,7 +194,7 @@
                             <img src="Gallery/Hardware.png" alt="">
                         </div>
                     <h3>ICT system support</h3>
-                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
+                    <h5>I am a passionate ICT professional, with over 10 years experience. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
                 </div>
 
