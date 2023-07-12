@@ -31,7 +31,7 @@
 
 <!----HeaderSection---------------------------------------------------------------------------------------------------->
 
-<header class="sticky">
+<header>
         <a href="#" class="logo"><img src="Gallery/Logo.JPG" alt=""></a>
                 <div class="bx bx-menu" id="menu-icon"></div>
 
@@ -347,7 +347,7 @@
         </div>
 </section>
 
-<script src="https://unpkg.com/ScrollReveal"></script>
+<!--<script src="https://unpkg.com/ScrollReveal"></script>-->
 
 <!----CounterSection--------------------------------------------------------------------------------------------------->
 
@@ -381,7 +381,12 @@
 
 <!----JS--------------------------------------------------------------------------------------------------------------->
 
-<script type="text/javascript" src="script.js" </script>
+        <script type="text/javascript">
+                const header = document.querySelector("header");
+                window.addEventListener("scroll", function() {
+                header.classList.toggle("sticky", window.scrollY > 0)
+                });
+        </script>
 
 </body>
 </html>
