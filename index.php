@@ -388,5 +388,21 @@
                 });
         </script>
 
+        <script src="https://unpkg.com/scrollreveal"></script>
+
+        <script>
+                const sr = ScrollReveal ({
+                    distance: '45px',
+                    duration: 2700,
+                    reset: true
+                })
+
+                sr.reveal('.home-sec-text', {delay:350, origin:'left'})
+                sr.reveal('.home-sec-img', {delay:350, origin:'right'})
+
+                sr.reveal('.serv-sec,.abt-sec,.my-work-sec,.expert-sec,.contact-sec', {delay:250, origin:'bottom'})
+
+        </script>
+
 </body>
 </html>
