@@ -380,13 +380,18 @@
 <!--</section>-->
 
 <!----JS--------------------------------------------------------------------------------------------------------------->
+<!--===STICKY-NAV------------------------------------------------------------------------------------------------------>
+
 
         <script type="text/javascript">
                 const header = document.querySelector("header");
                 window.addEventListener("scroll", function() {
-                header.classList.toggle("sticky", window.scrollY > 0)
+                header.classList.toggle("sticky", window.scrollY > 0);
                 });
         </script>
+
+
+<!--===SCROLL-REVEAL--------------------------------------------------------------------------------------------------->
 
         <script src="https://unpkg.com/scrollreveal"></script>
 
@@ -401,6 +406,24 @@
                 sr.reveal('.home-sec-img', {delay:350, origin:'right'})
 
                 sr.reveal('.serv-sec,.abt-sec,.my-work-sec,.expert-sec,.contact-sec', {delay:250, origin:'bottom'})
+
+        </script>
+
+<!--===TOGGLE-MENU----------------------------------------------------------------------------------------------------->
+
+        <script>
+            let menu = document.querySelector('#menu-icon');
+            let navlinks = document.querySelector('.nav-links');
+
+            menu.onclick = () => {
+                menu.classList.toggle('bx-x');
+                navlinks.classList.toggle('active');
+            };
+
+            window.onscroll = () => {
+                menu.classList.remove('bx-x');
+                navlist.classList.remove('active');
+            };
 
         </script>
 
