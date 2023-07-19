@@ -347,41 +347,8 @@
         </div>
 </section>
 
-<!--<script src="https://unpkg.com/ScrollReveal"></script>-->
-
-<!----CounterSection--------------------------------------------------------------------------------------------------->
-
-<!--<section class="count-sec">-->
-<!--           <div class="wrapper">-->
-<!--                <div class="container">-->
-<!--                    <i class='bx bxl-upwork'></i>-->
-<!--                        <span class="count-sec-num" data-val="400">000</span>-->
-<!--                        <span class="count-sec-txt">projects delivered</span>-->
-<!--                </div>-->
-<!---->
-<!--               <div class="container">-->
-<!--                   <i class='bx bxl-upwork'></i>-->
-<!--                   <span class="count-sec-num" data-val="400">000</span>-->
-<!--                   <span class="count-sec-txt">projects delivered</span>-->
-<!--               </div>-->
-<!---->
-<!--               <div class="container">-->
-<!--                   <i class='bx bxl-upwork'></i>-->
-<!--                   <span class="count-sec-num" data-val="400">000</span>-->
-<!--                   <span class="count-sec-txt">projects delivered</span>-->
-<!--               </div>-->
-<!---->
-<!--               <div class="container">-->
-<!--                   <i class='bx bxl-upwork'></i>-->
-<!--                   <span class="count-sec-num" data-val="400">000</span>-->
-<!--                   <span class="count-sec-txt">projects delivered</span>-->
-<!--               </div>-->
-<!--           </div>-->
-<!--</section>-->
-
 <!----JS--------------------------------------------------------------------------------------------------------------->
 <!--===STICKY-NAV------------------------------------------------------------------------------------------------------>
-
 
         <script type="text/javascript">
                 const header = document.querySelector("header");
@@ -426,6 +393,5 @@
             };
 
         </script>
-
 </body>
 </html>
