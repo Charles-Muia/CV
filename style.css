@@ -75,18 +75,19 @@
 
     .nav-links a:hover {
         color: #800000;
+        /*background: #a09dab;*/
     }
 
     .nav-links a::after {
-        content: '';
-        position: absolute;
-        width: 0;
-        height: 2px;
-        background: var(--main-color);
-        bottom: -3px;
-        left: 25%;
-        /*right: 5px;*/
-        transition: ease .60s;
+        /*content: '';*/
+        /*position: absolute;*/
+        /*!*width: 100%;*!*/
+        /*height: 2px;*/
+        /*background: var(--main-color);*/
+        /*bottom: -3px;*/
+        /*left: 0%;*/
+        /*!*right: 5px;*!*/
+        /*transition: ease .60s;*/
     }
 
     .nav-links a:hover::after {
@@ -552,113 +553,12 @@
         background: #fbceb1;
     }
 
-/*----CounterSection--------------------------------------------------------------------------------------------------*/
-
-/*    .wrapper {*/
-/*        border: 1px solid #ffffff;*/
-/*        position: absolute;*/
-/*        width: 55vw;*/
-/*        left: 20%;*/
-/*        display: flex;*/
-/*        justify-content: space-around;*/
-/*        gap: 10px;*/
-/*    }*/
-
-/*    .container {*/
-/*        width: 32vmin;*/
-/*        height: 30vmin;*/
-/*        border: 1px solid #ff5733;*/
-/*        display: flex;*/
-/*        flex-direction: column;*/
-/*        justify-content: space-around;*/
-/*        padding: 1rem 0;*/
-/*        position: relative;*/
-/*        font-size: 16px;*/
-/*        border-radius: 0.5rem;*/
-/*        background-color: #4b4b4b4b;*/
-/*        border-bottom: 10px solid #fbceb1;*/
-/*    }*/
-
-/*    .count-sec-num {*/
-/*        background: transparent;*/
-/*        color: #000000;*/
-/*        display: grid;*/
-/*        place-items: center;*/
-/*        font-weight: 600;*/
-/*        font-size: var(--h2-font);*/
-/*        margin: auto;*/
-/*        width: 50%;*/
-/*    }*/
-
-/*    .count-sec-txt {*/
-/*        background: transparent;*/
-/*        text-align: center;*/
-/*        font-weight: 400;*/
-/*        font-size: 1rem;*/
-/*        text-transform: capitalize;*/
-/*        list-style: none;*/
-/*        !*padding: 0.7rem 0;*!*/
-/*        margin: auto;*/
-/*        width: 100%;*/
-/*        line-height: 0;*/
-/*    }*/
-
-/*    i {*/
-/*        color: #8b0000;*/
-/*        font-size: 3rem;*/
-/*        text-align: center;*/
-/*    }*/
-
-/*!*----CounterSection Media Query CSS----------------------------------------------------------------------------------*!*/
-
-/*    @media screen and (max-width: 1024px) {*/
-/*        .wrapper {*/
-/*            width: 85vw;*/
-/*            left: 5%;*/
-/*        }*/
-
-/*        .container {*/
-/*            height: 26vmin;*/
-/*            width: 26vmin;*/
-/*            font-size: 12px;*/
-/*        }*/
-/*    }*/
-
-/*    @media screen and (max-width: 768px) {*/
-/*        .wrapper {*/
-/*            width: 90vw;*/
-/*            flex-wrap: wrap;*/
-/*            gap: 30px;*/
-/*            left: 5%;*/
-/*        }*/
-
-/*        .container {*/
-/*            width: calc(50% - 40px);*/
-/*            height: 30vmin;*/
-/*            font-size: 14px;*/
-/*        }*/
-/*    }*/
-
-/*    @media screen and (max-width: 480px) {*/
-/*        .wrapper {*/
-/*            gap: 15px;*/
-/*            left: 10%;*/
-/*        }*/
-
-/*        .container {*/
-/*            width: 100%;*/
-/*            height: 25vmin;*/
-/*            font-size: 8px;*/
-/*        }*/
-/*    }*/
-
-
 /*----Webpage Media Query CSS-----------------------------------------------------------------------------------------*/
 
         @media screen and (max-width: 1425px) {
             header {
                 padding: 12px 5%;
-                transition: 3s;
+                transition: .3s;
             }
 
             header .sticky {
@@ -690,7 +590,7 @@
 
             .nav-links {
                 position: absolute;
-                top: 100%;
+                top: -600px;
                 left: 0;
                 right: 0;
                 flex-direction: column;

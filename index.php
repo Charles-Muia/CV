@@ -422,7 +422,7 @@
 
             window.onscroll = () => {
                 menu.classList.remove('bx-x');
-                navlist.classList.remove('active');
+                navlinks.classList.remove('active');
             };
 
         </script>
