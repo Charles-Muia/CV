@@ -62,7 +62,7 @@
                     <a href=""><i class='bx bxl-youtube'></i></a>
                     <a href=""><i class='bx bxl-stack-overflow'></i></a>
             </div>
-                     <a href="#" class="about-btn">about me</a>
+                     <a href="#about" class="about-btn">about me</a>
     </div>
 
             <div class="home-sec-img">
@@ -111,7 +111,7 @@
                         <p>I am a self taught web developer and passionate ICT professional. Amet corporis doloremque doloribus eius error est, fuga harum,
                             id iste magnam officia perspiciatis reiciendis rem repellendus reprehenderit suscipit unde ut, voluptatum.</p>
 
-                    <a href="#" class="about-btn">hire me</a>
+                    <a href="#contact" class="about-btn">hire me</a>
                 </div>
 </section>
 
@@ -145,7 +145,7 @@
             <div class="col">
                 <img src="Gallery/work3.jpg" alt="">
                 <div class="my-work-sec-layer">
-                    <h3>web development <br> & <br> design</h3>
+                    <h3>web design <br> & <br> hosting </h3>
                     <h5>popup</h5>
                 </div>
             </div>
