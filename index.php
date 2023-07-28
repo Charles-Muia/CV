@@ -343,7 +343,7 @@
         </div>
     </footer>
         <div class="copyright-text">
-            <p>Copyright 2023 &#169 Charles Muia - Passionate ICT & Digital Professional. All rights reserved. </p>
+            <p>&#169 Copyright 2023 . Charles Muia - Passionate ICT & Digital Professional. <br> All rights reserved. </p>
         </div>
 </section>
 
