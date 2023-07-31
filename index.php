@@ -58,9 +58,9 @@
 <!--                    <a href=""><i class='bx bxl-whatsapp'></i></a>-->
                     <a href=""><i class='bx bxl-facebook'></i></a>
                     <a href="https://twitter.com/CsMuia"><i class='bx bxl-twitter'></i></a>
-                    <a href=""><i class='bx bxl-github'></i></a>
+                    <a href="https://github.com/Charles-Muia"><i class='bx bxl-github'></i></a>
                     <a href=""><i class='bx bxl-youtube'></i></a>
-                    <a href=""><i class='bx bxl-stack-overflow'></i></a>
+                    <a href="https://stackoverflow.com/users/21403850/charles-muia"><i class='bx bxl-stack-overflow'></i></a>
             </div>
                      <a href="#about" class="about-btn">about me</a>
     </div>
