@@ -108,9 +108,8 @@
                 <div class="abt-sec-text">
                     <h3>I have design skills.</h3>
                     <h2>i can design posters. </h2>
-                        <p>I am a self taught web developer and passionate ICT professional. Amet corporis doloremque doloribus eius error est, fuga harum,
+                        <p>I am a passionate ICT professional and self-taught website developer. Amet corporis doloremque doloribus eius error est, fuga harum,
                             id iste magnam officia perspiciatis reiciendis rem repellendus reprehenderit suscipit unde ut, voluptatum.</p>
-
                     <a href="#contact" class="about-btn">hire me</a>
                 </div>
 </section>
