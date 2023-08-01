@@ -54,12 +54,12 @@
                 <h5> passionate <span>ICT, Web & Digital Enthusiast</span>.</h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda in obcaecati praesentium.</p>
             <div class="social-media-icons">
-                    <a href=""><i class='bx bxl-linkedin'></i></a>
+                    <a href="www.linkedin.com/in/charles-muia-87804635"><i class='bx bxl-linkedin'></i></a>
 <!--                    <a href=""><i class='bx bxl-whatsapp'></i></a>-->
-                    <a href=""><i class='bx bxl-facebook'></i></a>
+                    <a href="#"><i class='bx bxl-facebook'></i></a>
                     <a href="https://twitter.com/CsMuia"><i class='bx bxl-twitter'></i></a>
                     <a href="https://github.com/Charles-Muia"><i class='bx bxl-github'></i></a>
-                    <a href=""><i class='bx bxl-youtube'></i></a>
+                    <a href="#"><i class='bx bxl-youtube'></i></a>
                     <a href="https://stackoverflow.com/users/21403850/charles-muia"><i class='bx bxl-stack-overflow'></i></a>
             </div>
                      <a href="#about" class="about-btn">about me</a>
@@ -79,7 +79,7 @@
                 <div class="serv-img">
                     <img src="Gallery/Coding.jpg" alt="">
                 </div>
-                <h3>pixel perfect</h3>
+                <h3>web developer</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid consequuntur, laudantium nihil placeat possimus quisquam.</p>
             </div>
 
@@ -87,15 +87,16 @@
                 <div class="serv-img">
                     <img src="Gallery/Maintenance.jpg" alt="">
                 </div>
-                <h3>pixel perfect</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid consequuntur, laudantium nihil placeat possimus quisquam.</p>
+                <h3>ICT & digital</h3>
+                <p>Passionate, driven and experienced ICT professional with a fulfilling career working in the ICT, digital and service delivery industry.</p>
+
             </div>
             <div class="serv-areas">
                 <div class="serv-img">
                     <img src="Gallery/Digital_Transformation.webp" alt="">
                 </div>
-                <h3>pixel perfect</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid consequuntur, laudantium nihil placeat possimus quisquam.</p>
+                <h3>tech-savvy</h3>
+                <p>In depth understanding of Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid consequuntur, laudantium nihil placeat possimus quisquam.</p>
             </div>
         </div>
 </section>
