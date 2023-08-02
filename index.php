@@ -80,7 +80,7 @@
                     <img src="Gallery/Coding.jpg" alt="">
                 </div>
                 <h3>web developer</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid consequuntur, laudantium nihil placeat possimus quisquam.</p>
+                    <p>Skilled in web design, hosting and maintenance. Participated in the eMobilis Mobile Technology Academy website development scholarship program.</p>
             </div>
 
             <div class="serv-areas">
@@ -88,16 +88,17 @@
                     <img src="Gallery/Maintenance.jpg" alt="">
                 </div>
                 <h3>ICT & digital</h3>
-                <p>Passionate, driven and experienced ICT professional with a fulfilling career working in the ICT, digital and service delivery industry.</p>
-
+                <p>Passionate, driven and experienced ICT professional with a fulfilling career working in the ICT, digital and service delivery industry for over 10 years.</p>
             </div>
+
             <div class="serv-areas">
                 <div class="serv-img">
                     <img src="Gallery/Digital_Transformation.webp" alt="">
                 </div>
                 <h3>tech-savvy</h3>
-                <p>In depth understanding of Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid consequuntur, laudantium nihil placeat possimus quisquam.</p>
+                <p>In depth understanding of modern technology, trends and application. Strong troubleshooting, analytical, technical and managerial skills.</p>
             </div>
+
         </div>
 </section>
 
