@@ -124,15 +124,15 @@
         <div class="my-work-sec-heading">
             <h3>my work</h3>
                 <h2>sampled projects</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, <br>
-                        impedit incidunt minima porro sit voluptatum.</p>
+                    <p>I have been privileged to work on projects within the web and digital space. <br>
+                        Here are some of the sampled projects that I have delivered.</p>
         </div>
 
         <div class="my-work-sec-samples">
             <div class="col">
-                <img src="Gallery/Coding_1.jpg" alt="">
+                <img src="Gallery/work5.jpg" alt="">
                     <div class="my-work-sec-layer">
-                        <h3>web design</h3>
+                        <h3><a href="https://www.facebook.com/AsumbiTC">social media</a></h3>
                         <h5>popup</h5>
                     </div>
             </div>
@@ -154,7 +154,7 @@
             </div>
 
             <div class="col">
-                <img src="Gallery/work1.jpg" alt="">
+                <img src="Gallery/Coding_1.jpg" alt="">
                 <div class="my-work-sec-layer">
                     <h3>web development & design</h3>
                     <h5>popup</h5>
