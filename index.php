@@ -113,7 +113,7 @@
                     <h2>i can design posters. </h2>
                         <p>I am a passionate ICT and digital professional, self-taught website developer. Self-motivated, fast learner, driven and able to work efficiently with both on-site and virtual teams.
                             My exemplary customer service, strong troubleshooting, <br> analytical, technical and managerial
-                            <br> skills have been the highlights of my career.</p>
+                            <br> skills have been the highlights of <br> my career.</p>
                     <a href="#contact" class="about-btn">hire me</a>
                 </div>
 </section>
