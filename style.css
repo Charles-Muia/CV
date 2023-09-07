@@ -119,6 +119,7 @@
         font-weight: 500;
         transition: ease .60s;
         text-transform: capitalize;
+        cursor: pointer;
     }
 
     .top-btn:hover {
