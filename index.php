@@ -133,8 +133,8 @@
             <div class="col">
                 <img src="Gallery/work5.jpg" alt="">
                     <div class="my-work-sec-layer">
-                        <h3><a href="https://www.facebook.com/AsumbiTC">social media</a></h3>
-                        <h5>popup</h5>
+                        <h3><a href="https://www.facebook.com/AsumbiTC">social media <br> account <br> management</a></h3>
+                        <h5 style="font-size: 20px; margin-top: 4rem"><i class="bi bi-body-text"></i></h5>
                     </div>
             </div>
 
@@ -149,15 +149,15 @@
             <div class="col">
                 <img src="Gallery/work3.jpg" alt="">
                 <div class="my-work-sec-layer">
-                    <h3>web design <br> & <br> hosting </h3>
+                    <h3><a href="#">web design <br> & <br> hosting</a></h3>
                     <h5>popup</h5>
                 </div>
             </div>
 
             <div class="col">
-                <img src="Gallery/Coding_1.jpg" alt="">
+                <img src="Gallery/work7.jpg" alt="">
                 <div class="my-work-sec-layer">
-                    <h3>web development & design</h3>
+                    <h3>web design <br> & <br> hosting </h3>
                     <h5>popup</h5>
                 </div>
             </div>
