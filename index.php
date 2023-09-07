@@ -19,6 +19,7 @@
 <!----CDN-------------------------------------------------------------------------------------------------------------->
 
     <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 
 <!----Google Fonts----------------------------------------------------------------------------------------------------->
 
@@ -345,7 +346,7 @@
         </div>
     </footer>
         <div class="copyright-text">
-            <p>&#169 Copyright 2023 . Charles Muia - Passionate ICT & Digital Professional. <br> All rights reserved. </p>
+            <p>&#169 Copyright 2023 <i class="bi bi-dot"></i> Charles Muia <i class="bi bi-dot"></i> Passionate ICT & Digital Professional <i class="bi bi-dot"></i> <br> All rights reserved </p>
         </div>
 </section>
 
