@@ -346,7 +346,7 @@
         </div>
     </footer>
         <div class="copyright-text">
-            <p>&#169 Copyright 2023 <i class="bi bi-dot"></i> Charles Muia <i class="bi bi-dot"></i> Passionate ICT & Digital Professional <i class="bi bi-dot"></i> <br> All rights reserved </p>
+            <p>&#169 Copyright 2023 <i class="bi bi-dot"></i> Charles Muia <i class="bi bi-dot"></i> Passionate ICT, Web & Digital Enthusiast <i class="bi bi-dot"></i> <br> All rights reserved </p>
         </div>
 </section>
 
