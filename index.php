@@ -55,7 +55,7 @@
     <div class="home-sec-text">
         <h3>Greetings, I'm</h3>
             <h1>charles muia</h1>
-                <h5> passionate <span>ICT, Web & Digital Enthusiast</span>.</h5>
+                <h5>passionate <span>&#160;ICT, Web & Digital Enthusiast.&#160;</span></h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda in obcaecati praesentium.</p>
             <div class="social-media-icons">
                     <a href="www.linkedin.com/in/charles-muia-87804635"><i class='bx bxl-linkedin'></i></a>
@@ -115,7 +115,7 @@
                 <div class="abt-sec-text">
                     <h3>I have design skills.</h3>
                     <h2>i can design posters. </h2>
-                        <p>I am a passionate ICT and digital professional, self-taught website developer. Self-motivated, fast learner, driven and able to work efficiently with both on-site and virtual teams.
+                        <p>I am a passionate ICT and digital professional, self-taught website developer. Self-motivated, fast learner, driven and able to work efficiently with both on-site and virtually.
                             My exemplary customer service, strong troubleshooting, <br> analytical, technical and managerial
                             <br> skills have been the highlights of <br> my career.</p>
                     <a href="#contact" class="about-btn">hire me</a>
@@ -189,7 +189,7 @@
 <section class="expert-sec" id="services">
         <div class="my-work-sec-heading">
                         <h3>my expertise</h3>
-                            <h2>what i do for clients</h2>
+                            <h2>what I do for clients</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, <br>
                             impedit incidunt minima porro sit voluptatum.</p>
         </div>
@@ -349,7 +349,7 @@
         </div>
     </footer>
         <div class="copyright-text">
-            <p>&#169 Copyright 2023 <i class="bi bi-dot"></i> Charles Muia <i class="bi bi-dot"></i> Passionate ICT, Web & Digital Enthusiast <i class="bi bi-dot"></i> <br> All rights reserved </p>
+            <p>&#169 Copyright 2023 <i class="bi bi-dot"></i> Charles Muia <i class="bi bi-dot"></i> Passionate ICT, Web & Digital Enthusiast <br> All rights reserved </p>
         </div>
 </section>
 
