@@ -339,11 +339,11 @@
                 <ul class="contact-infor">
                     <li>
                         <span><i class='bx bxs-phone-incoming'></i></span>
-                        <p><a href="mobile+254724563163">+254 724 563 163</a></p>
+                        <p> <a href="mobile+254724563163"> +254 724 563 163 </a></p>
                     </li>
                     <li>
                         <span> <i class='bx bxs-envelope'></i></span>
-                        <p><a href="mailto:Charles.K.Muia@gmail.com"> Charles.K.Muia@gmail.com</a></p>
+                        <p> <a href="mailto:Charles.K.Muia@gmail.com"> Charles.K.Muia@gmail.com </a></p>
                     </li>
                 </ul>
             </div>
