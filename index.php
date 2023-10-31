@@ -60,7 +60,7 @@
             <div class="social-media-icons">
                     <a href="www.linkedin.com/in/charles-muia-87804635"><i class='bx bxl-linkedin'></i></a>
 <!--                    <a href=""><i class='bx bxl-whatsapp'></i></a>-->
-                    <a href="#"><i class='bx bxl-facebook'></i></a>
+                    <a href="https://www.facebook.com/TechwareScopeSolutions"><i class='bx bxl-facebook'></i></a>
                     <a href="https://twitter.com/CsMuia"><i class='bx bxl-twitter'></i></a>
                     <a href="https://github.com/Charles-Muia"><i class='bx bxl-github'></i></a>
                     <a href="#"><i class='bx bxl-youtube'></i></a>
@@ -307,11 +307,11 @@
                         Aut commodi doloremque eum ipsam <br>ipsum laboriosam quia quod ratione voluptatem <br> voluptates!</p>
 
                     <ul class="sci">
-                        <li><a href=""><i class='bx bxl-facebook'></i></a></li>
-                        <li><a href=""><i class='bx bxl-linkedin'></i></a></li>
-                        <li><a href=""><i class='bx bxl-github'></i></a></li>
+                        <li><a href="https://www.facebook.com/TechwareScopeSolutions"><i class='bx bxl-facebook'></i></a></li>
+                        <li><a href="www.linkedin.com/in/charles-muia-87804635"><i class='bx bxl-linkedin'></i></a></li>
+                        <li><a href="https://github.com/Charles-Muia"><i class='bx bxl-github'></i></a></li>
                         <li> <a href="https://twitter.com/CsMuia"><i class='bx bxl-twitter'></i></a></li>
-                        <li><a href=""><i class='bx bxl-stack-overflow'></i></a></li>
+                        <li><a href="https://stackoverflow.com/users/21403850/charles-muia"><i class='bx bxl-stack-overflow'></i></a></li>
                     </ul>
             </div>
             <div class="sec quick-links">
@@ -363,7 +363,6 @@
                 header.classList.toggle("sticky", window.scrollY > 0);
                 });
         </script>
-
 
 <!--===SCROLL-REVEAL--------------------------------------------------------------------------------------------------->
 
