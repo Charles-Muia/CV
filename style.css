@@ -333,7 +333,7 @@
     .abt-sec-text p {
         max-width: 300px;
         font-size: var(--p-font);
-        color: var(--4th-1-color);
+        color: var(--4th-color);
         line-height: 30px;
         margin-bottom: 50px;
         cursor: pointer;
