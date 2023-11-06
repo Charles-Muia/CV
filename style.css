@@ -14,6 +14,7 @@
         --second-color: #a09dab;
         --third-color: #ff4500;
         --4th-color: #4b4b4b;
+        --4th-1-color:#1c1c1c;
         --5th-color: #1b1b1b1b;
         --main-color: #f75023;
         --big-font:5rem;
@@ -332,7 +333,7 @@
     .abt-sec-text p {
         max-width: 300px;
         font-size: var(--p-font);
-        color: var(--4th-color);
+        color: var(--4th-1-color);
         line-height: 30px;
         margin-bottom: 50px;
         cursor: pointer;

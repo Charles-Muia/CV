@@ -46,7 +46,7 @@
             <li><a href="#services">services</a></li>
             <li><a href="#contact">contact</a></li>
         </ul>
-            <a download="Gallery/Resume.pdf" href="Gallery/Resume.pdf" class="top-btn"> <i class="fa fa-download"></i> my CV </a>
+            <a download="Gallery/Charles_Muia.pdf" href="Gallery/Charles_Muia.pdf" class="top-btn"> <i class="fa fa-download"></i> my CV </a>
 </header>
 
 <!----HomeSection------------------------------------------------------------------------------------------------------>
@@ -70,7 +70,7 @@
     </div>
 
             <div class="home-sec-img">
-                <img src="Gallery/KingCharlesIII.jpg" alt="">
+                <img src="Gallery/Charles_Muia.jpg" alt="">
             </div>
 </section>
 <hr class="hr1">
@@ -272,7 +272,7 @@
                     </div>
 
                     <div class="contact-form-right">
-                        <div class="topic-text">you can reachout</div>
+                        <div class="topic-text">you can reach-out</div>
                         <p>If you have any work or project related to my expertise, you can send me a message by filling out the form below.
                         It will be my pleasure to bring your idea to reality.</p>
 
