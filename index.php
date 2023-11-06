@@ -46,7 +46,7 @@
             <li><a href="#services">services</a></li>
             <li><a href="#contact">contact</a></li>
         </ul>
-            <a download="Gallery/Charles_Muia.pdf" href="Gallery/Charles_Muia.pdf" class="top-btn"> <i class="fa fa-download"></i> my_CV </a>
+            <a download="CV/Charles_Muia.pdf" href="CV/Charles_Muia.pdf" class="top-btn"> <i class="fa fa-download"></i> my_CV </a>
 </header>
 
 <!----HomeSection------------------------------------------------------------------------------------------------------>
