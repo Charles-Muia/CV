@@ -236,6 +236,11 @@
         height: auto;
     }
 
+    .home-sec-img img {
+        border-top-left-radius: 2%;
+        border-bottom-right-radius: 5%;
+    }
+
     header {
         background: var(--bg-color);
         padding: 5px 10%;
