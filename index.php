@@ -327,7 +327,7 @@
             <div class="sec quick-links">
                 <h3>recent</h3>
                 <ul>
-                    <li><a href="#">social media</a></li>
+                    <li><a href="#work">social media</a></li>
                     <li><a href="#about">blog</a></li>
                     <li><a href="#work">website</a></li>
                     <li><a href="#services">digital</a></li>
