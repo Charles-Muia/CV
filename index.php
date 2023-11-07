@@ -302,7 +302,7 @@
         <div class="container-1">
             <div class="sec about-us">
                 <h3>about me</h3>
-                    <p>Passionate ICT, web design & digital enthusiast <br> with over 5 years of experience. Lorem ipsum
+                    <p>Passionate ICT, Web Design & Dgit igital enthusiast <br> with over 10 years of experience. Lorem ipsum
                         <br> dolor sit amet, consectetur adipisicing elit. <br>
                         Aut commodi doloremque eum ipsam <br>ipsum laboriosam quia quod ratione voluptatem <br> voluptates!</p>
 
