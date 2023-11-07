@@ -242,8 +242,8 @@
             <div class="my-work-sec-heading">
                     <h3>Get in touch</h3>
                     <h2>i am available for the next project</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, <br>
-                        impedit incidunt minima porro sit voluptatum.</p>
+                    <p>If you are in need of my expertise, look no further. You, <br>
+                        can get in touch by filling the contact form below.</p>
             </div>
 
             <div class="container">
