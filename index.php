@@ -190,8 +190,8 @@
         <div class="my-work-sec-heading">
                         <h3>my expertise</h3>
                             <h2>what I do for clients</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, <br>
-                            impedit incidunt minima porro sit voluptatum.</p>
+                        <p>Fulfilling clients needs is what I do best. I rely on my professional expansive career working in the, <br>
+                            ICT, digital and service delivery industry.</p>
         </div>
 
         <div class="expert-sec-content">
