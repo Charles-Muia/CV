@@ -115,7 +115,7 @@
                 <div class="abt-sec-text">
                     <h3>I have design skills.</h3>
                     <h2>i can design posters. </h2>
-                        <p>I am a passionate ICT and digital professional, self-taught website developer. Self-motivated, fast learner, driven and able to work efficiently with both on-site and virtually.
+                        <p>I am a passionate ICT and digital professional, self-taught website developer. Self-motivated, fast learner, driven and able to work efficiently both on-site and virtually.
                             My exemplary customer service, strong troubleshooting, <br> analytical, technical and managerial
                             <br> skills have been the highlights of <br> my career.</p>
                     <a href="#contact" class="about-btn">hire me</a>
