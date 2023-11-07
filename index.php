@@ -56,7 +56,7 @@
         <h3>Greetings, I'm</h3>
             <h1>charles muia</h1>
                 <h5>passionate <span>&#160;ICT, Web & Digital Enthusiast.&#160;</span></h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda in obcaecati praesentium.</p>
+                    <p>Experienced, self motivated and driven. consectetur adipisicing elit. Assumenda in obcaecati praesentium.</p>
             <div class="social-media-icons">
                     <a href="www.linkedin.com/in/charles-muia-87804635"><i class='bx bxl-linkedin'></i></a>
 <!--                    <a href=""><i class='bx bxl-whatsapp'></i></a>-->
