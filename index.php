@@ -284,7 +284,7 @@
                                     <input type="text" placeholder="Enter Your Email Address">
                                     </div>
                                     <div class="form-input message-box">
-                                    <textarea placeholder="Type Here!"></textarea>
+                                    <textarea placeholder="Type Your Message Here!"></textarea>
                                     </div>
                             <div class="form-button">
                             <input type="button" value="Send Message">
