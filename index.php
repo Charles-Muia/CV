@@ -253,20 +253,20 @@
                             <i class='bx bxs-map'></i>
                                 <div class="topic">address</div>
                                     <div class="text-one">Global Citizen</div>
-                                        <div class="text-two">+254 KE</div>
+                                        <div class="text-two">+254 KE / EAC</div>
                         </div>
 
                         <div class="contact-info phone">
                             <i class='bx bxs-phone-incoming'></i>
                             <div class="topic">phone</div>
                             <div class="text-one">+254 724 563 163</div>
-                            <div class="text-two">+254 724 563 163</div>
+                            <div class="text-two">+254 784 563 163</div>
                         </div>
 
                         <div class="contact-info email">
                             <i class='bx bxs-envelope'></i>
                             <div class="topic">email</div>
-                            <div class="text-one">Charles_Muia@outlook.com</div>
+                            <div class="text-one">info@karlmagne.com</div> or
                             <div class="text-two">Charles.K.Muia@gmail.com</div>
                         </div>
                     </div>
@@ -466,6 +466,5 @@
             }
         }
     </script>
-
 </body>
 </html>
