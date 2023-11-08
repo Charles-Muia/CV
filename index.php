@@ -276,15 +276,15 @@
                         <p>If you have any work or project related to my expertise, you can send me a message by filling out the form below.
                         It will be my pleasure to bring your idea to reality.</p>
 
-                    <form action="">
+                    <form action="form-handler.php" method="post">
                             <div class="form-input">
-                                <input type="text" placeholder="Enter Your Name">
+                                <input type="text" placeholder="Enter Your Name" name="name">
                             </div>
                                     <div class="form-input">
-                                    <input type="text" placeholder="Enter Your Email Address">
+                                    <input type="text" placeholder="Enter Your Email Address" name="email">
                                     </div>
                                     <div class="form-input message-box">
-                                    <textarea placeholder="Type Your Message Here!"></textarea>
+                                    <textarea placeholder="Type Your Message Here!" name="message"></textarea>
                                     </div>
                             <div class="form-button">
                             <input type="button" value="Send Message">
