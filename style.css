@@ -787,7 +787,34 @@
     .form-input {
         height: 40px;
         width: 100%;
-        margin: 10px 0;
+        margin: 25px 0;
+    }
+
+    .form-input span {
+        position: relative;
+        bottom: 0px;
+        left: 20px;
+        font-size: 13px;
+        color: red;
+        background: transparent;
+        padding: 0 10px;
+        font-weight: 600;
+    }
+
+    .form-input span i {
+        color: seagreen;
+        background: transparent;
+    }
+
+    #submit-error {
+        position: absolute;
+        margin-top: 10px;
+        font-size: 13px;
+        color: red;
+        background: transparent;
+        text-align: center;
+        font-weight: 600;
+        /*margin-left: 12px;*/
     }
 
    .form-input input,
