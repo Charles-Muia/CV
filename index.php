@@ -56,7 +56,7 @@
         <h3>Greetings, I'm</h3>
             <h1>charles muia</h1>
                 <h5>passionate <span>&#160;ICT, Web & Digital Enthusiast.&#160;</span></h5>
-                    <p>Experienced, self motivated and driven. consectetur adipisicing elit. Assumenda in obcaecati praesentium.</p>
+                    <p>Experienced, self motivated and driven. I am a web developer, ICT & Digital professional.</p>
             <div class="social-media-icons">
                     <a href="www.linkedin.com/in/charles-muia-87804635"><i class='bx bxl-linkedin'></i></a>
 <!--                    <a href=""><i class='bx bxl-whatsapp'></i></a>-->
@@ -199,9 +199,9 @@
                         <div class="expert-sec-box1">
                             <img src="Gallery/Hardware.png" alt="">
                         </div>
-                    <h3>ICT system support</h3>
-                    <h5>I am a passionate ICT professional, with over 10 years experience. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
+                    <h3>ICT technical support</h3>
+                    <h5>I am a passionate ICT professional, with over 10 years experience. <span>Expertise knowledge of working with Help/Service desk tools, Windows based & Dell systems. </span></h5>
+                    <p>Exemplary customer service, strong troubleshooting, analytical, technical and managerial skills.</p>
                 </div>
 
                 <div class="row">
@@ -209,8 +209,8 @@
                             <img src="Gallery/web-development.png" alt="">
                         </div>
                     <h3>web design & hosting</h3>
-                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
+                    <h5>Self taught web developer, with an understanding of web hosting. <span>Includes domain name registration, website design, maintenance and SEO.</span></h5>
+                    <p>I help build a strong online presence that will convey quality information to customers and business needs.</p>
                 </div>
 
                 <div class="row">
@@ -218,8 +218,8 @@
                                 <img src="Gallery/brand.svg" alt="">
                          </div>
                     <h3>social media & branding</h3>
-                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
+                    <h5>Social media accounts management & branding within the digital space. <span> Includes content creation, hashtag strategy across all social media platforms.</span></h5>
+                    <p>Covers planning, crafting and publishing content on social platforms for audience engagement and pushing your brand.</p>
                 </div>
 
                 <div class="row">
@@ -227,8 +227,8 @@
                                 <img src="Gallery/ICT.png" alt="">
                         </div>
                     <h3>ICT & office equipments</h3>
-                    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span>Deserunt distinctio ducimus exercitationem nam, officia repellat?</span></h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur deserunt earum totam?</p>
+                    <h5>I offer ICT & Office Equipment consultancy services. <span>Includes advising on tech trends, hardware/software requirements and licensing. Office and ISP recommendations. </span></h5>
+                    <p>My value proposition is supplying products and tailor made solutions to suit individuals and business needs.</p>
                 </div>
         </div>
 </section>
@@ -306,9 +306,11 @@
         <div class="container-1">
             <div class="sec about-us">
                 <h3>about me</h3>
-                    <p>Passionate ICT, Web Design & Dgit igital enthusiast <br> with over 10 years of experience. Lorem ipsum
-                        <br> dolor sit amet, consectetur adipisicing elit. <br>
-                        Aut commodi doloremque eum ipsam <br>ipsum laboriosam quia quod ratione voluptatem <br> voluptates!</p>
+                    <p>Passionate ICT professional with over 10 years of experience. Web Design & Digital enthusiast.
+                        <br> Self taught
+                        <strong>web developer</strong> and social media manager. <br> Tech-Savvy highly skilled in technical support, <br>
+                         IT service delivery & information security management.<br> I am reliable, available and ready to work
+                        <br> on the next project. <br> <br> Get in touch.</p>
 
                     <ul class="sci">
                         <li><a href="https://www.facebook.com/TechwareScopeSolutions"><i class='bx bxl-facebook'></i></a></li>

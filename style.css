@@ -381,6 +381,10 @@
         line-height: 25px ;
     }
 
+    .my-work-sec-heading p:hover {
+        color: #1b1b1b;
+    }
+
     .my-work-sec-samples {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, auto));
