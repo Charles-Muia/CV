@@ -242,8 +242,8 @@
             <div class="my-work-sec-heading">
                     <h3>Get in touch</h3>
                     <h2>i am available for the next project</h2>
-                    <p>If you are in need of my expertise, look no further. You, <br>
-                        can get in touch by filling the contact form below.</p>
+                    <p>If you are in need of my expertise, look no further. <br>
+                        You can get in touch by filling the contact form below.</p>
             </div>
 
             <div class="container">
