@@ -316,7 +316,7 @@
                         <li><a href="https://www.facebook.com/TechwareScopeSolutions"><i class='bx bxl-facebook'></i></a></li>
                         <li><a href="www.linkedin.com/in/charles-muia-87804635"><i class='bx bxl-linkedin'></i></a></li>
                         <li><a href="https://github.com/Charles-Muia"><i class='bx bxl-github'></i></a></li>
-                        <li> <a href="https://twitter.com/CsMuia"><i class='bx bxl-twitter'></i></a></li>
+                        <li><a href="https://twitter.com/CsMuia"><i class='bx bxl-twitter'></i></a></li>
                         <li><a href="https://stackoverflow.com/users/21403850/charles-muia"><i class='bx bxl-stack-overflow'></i></a></li>
                     </ul>
             </div>

@@ -955,6 +955,7 @@
         text-align: center;
         text-decoration: none;
         list-style: none;
+        border-radius: 20%;
     }
 
     footer .container-1 .sci li a:hover {
@@ -1029,7 +1030,7 @@
         /*border-radius: 50%;*/
         padding-top: 4px;
         cursor: pointer;
-        /*border-radius: 50%;*/
+        border-radius: 20%;
     }
 
     footer .container-1 .contact-infor li span i:hover {
