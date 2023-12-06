@@ -306,9 +306,9 @@
         <div class="container-1">
             <div class="sec about-us">
                 <h3>about me</h3>
-                    <p>Passionate ICT professional with over 10 years of experience. Web Design & Digital enthusiast.
+                    <p>Passionate ICT professional with over 10 years of <br> experience. Web Design & Digital enthusiast.
                         <br> Self taught
-                        <strong>web developer</strong> and social media manager. <br> Tech-Savvy highly skilled in technical support, <br>
+                        <strong>web developer</strong> and social media manager. <br> Tech-Savvy, highly skilled in technical support, <br>
                          IT service delivery & information security management.<br> I am reliable, available and ready to work
                         <br> on the next project. <br> <br> Get in touch.</p>
 
